@@ -1,0 +1,14 @@
+.custom-contain{
+height: 300px;
+border: 2px solid green;
+    margin-top: 50px;
+
+}
+.header-custom{
+    height: 50px;
+    border-bottom: 2px solid green;
+    width: 100%;
+    
+    
+    
+}
